@@ -108,7 +108,7 @@ Unacceptable behavior includes:
 **Thank you for helping to make this a welcoming, friendly space for all!**
 
 # 4. Live Notes
-At ASMNGS17, we started using the EtherPad platform for live, collaborative note-taking - the 2017 notes can be found [here](https://public.etherpad-mozilla.org/p/asmngs17). We're doing it again for ASMNGS18 - jump in and start taking notes at (https://tinyurl.com/asmngs18) and feel free to tweet the link so others can follow along from wherever they are. This Etherpad will stay up as long as Mozilla keeps that instance alive. We'll also archive a version to [figshare](http://www.figshare.com) after the meeting.
+At ASMNGS17, we started using the EtherPad platform for live, collaborative note-taking - the 2017 notes can be found [here](https://public.etherpad-mozilla.org/p/asmngs17). We're doing it again for ASMNGS18 - jump in and start taking notes at https://tinyurl.com/asmngs18 and feel free to tweet the link so others can follow along from wherever they are. This Etherpad will stay up as long as Mozilla keeps that instance alive. We'll also archive a version to [figshare](http://www.figshare.com) after the meeting.
 
 # 5. Social Events
 Thanks to both ASM and our wonderful sponsors, we are able to host a number of social events during the meeting:
