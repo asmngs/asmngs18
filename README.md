@@ -1,6 +1,5 @@
-**ASMNGS18 - 2018 Conference Details**
-
-September 23-26, 2018 - Sheraton Tysons Corner, VA
+# ASMNGS18 - 2018 Conference Details
+### September 23-26, 2018 - Sheraton Tysons Corner, VA
 
 1. Important Information
 2. Schedule & Presentations
