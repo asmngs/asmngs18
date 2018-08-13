@@ -91,21 +91,27 @@ Our **social media policy** is that anything said by a speaker is fair game for 
 | 12:20-12:45 | Q&A for presenters |
 
 # 3. Code of Conduct
-New for 2018 is our Code of Conduct, based on the Creative Commons Zero-licensed Code of Conduct from GitHub Events, portions of which are based on the example anti-harassment policy from the Geek Feminism wiki, created by the Ada Initiative and other volunteers. The ASMNGS program committee is dedicated to providing a positive and harassment-free event experience for everyone, regardless of age, gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, ethnicity, race, religion, nationality, or level of experience. We do not tolerate harassment of event participants in any form, nor do we tolerate any behavior that would reasonably lead to another event participant being made to feel unsafe, insecure, or frightened for their physical or emotional well-being. All communication should be appropriate for a professional audience, including people of many different backgrounds.
+ASM and the ASMNGS team is committed to providing an environment that encourages the free expression and exchange of scientific ideas and promotes equal opportunities and respectful treatment for all participants. All participants are expected to treat others with respect and consideration, follow venue rules, and alert ASM staff or security of any dangerous situations or anyone in distress.
 
-Examples of encouraged behavior that contributes to a positive environment include:
-- Using welcoming and inclusive language
-- Being respectful of differing viewpoints and experiences
-- Gracefully accepting constructive criticism
-- Focusing on what is best for everyone at the event
-- Showing empathy towards other participants
+ASM prohibits and will not tolerate any form of harassment or bullying at its events. Harassment is unwanted and unwelcome attention or other conduct that creates an environment where a reasonable person would feel unwelcome, intimidated, excluded, or abused. Harassment based on gender, race, religion, national origin, age, marital status, personal appearance, sexual orientation, gender identity or expression, family responsibilities, genetic information, disability, matriculation, political affiliation, and any other personal characteristic is strictly prohibited.
 
-Unacceptable behavior includes:
-- The use of sexualized language or imagery, or inappropriate physical contact, sexual attention, or advances
-- Trolling, insulting or derogatory comments, personal or political attacks, or sustained disruption of talks
-- Deliberate intimidation, stalking, following, or harassing photography or recording
-- Harassment of any kind
-- Other conduct which could reasonably be considered inappropriate in a professional setting
+ASM will investigate all complaints of harassment, and investigations will be conducted in an unbiased manner. Violation of this code of conduct may result in the participant being asked to leave the event at which the incident occurred, without warning or refund; being barred from attending ASM events in the future; and, if relevant, being barred from or revocation of membership in the ASM. Event security and local police may be contacted in the event violators pose an imminent threat to others or are disrupting the event. If an ASM Staff member is found to be in violation, the ASM Headquarters Employment Policy (Prohibition against Sexual and Other Harassment and Discrimination) will be followed. Action regarding an ASM staff member may result in termination of employment.
+
+This policy applies to all attendees, speakers, exhibitors, contractors, volunteers, and guests at ASM events. If a participant experiences or witnesses harassment, he/she should contact ASM staff (ASM staff are identifiable by their ASM Staff name badge) as soon as possible or contact security if they feel unsafe. All complaints will be responded to promptly and treated seriously and, to the extent possible, confidentially. Complaints that require broader investigation will be handled by ASM’s Ethics Committee. ASM expressly forbids any retaliation against individuals for reporting harassment.
+
+In the event that an individual knowingly provides false information regarding a harassment situation, ASM may take similar disciplinary action.
+
+If a participant experiences or witnesses harassment as described in ASM’s Events Code of Conduct, they should contact ASM staff (identifiable by ASM staff badge) to report the incident. If at any time a participant feels unsafe, they should contact meeting venue security immediately. If the participant is unsure that the incident was in violation of the ASM’s Events Code of Conduct, they may inquire first from an ASM staff member before filing a formal complaint.
+
+The following information should be provided when reporting a harassment incident:
+- Name and contact information of participant
+- Name and contact information of any witnesses
+- Identifying information (e.g. name, badge number, physical appearance) of the individual(s) who are accused of the harassment
+- The specific action or behavior that was in violation of the ASM Events Code of Conduct
+- The date and approximate time of the incident
+- The location and circumstances surrounding the incident
+
+ASM will accept and investigate all complaints of harassment and investigations will be conducted in an unbiased manner. All complaints will be responded to promptly and treated seriously and, to the extent possible, confidentially.
 
 **Thank you for helping to make this a welcoming, friendly space for all!**
 
