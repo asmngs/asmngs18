@@ -18,6 +18,8 @@ If you need to get in touch with the organizers at any time, you have multiple o
 # 2. Schedule & Presentations
 We are encouraging speakers and poster presenters to make their materials available online. There are multiple avenues for doing so, including Google Drive, Slideshare, figshare,  F1000 Posters, and many more. The schedule below will be updated with links to slides as they are made available, and below the schedule is a list of posters that authors have placed online. Speaker name links go to Twitter profiles; talk title links go to slide files.
 
+Our **social media policy** is that anything said by a speaker is fair game for tweeting and live note-taking unless the speaker states otherwise. We encourage speakers to indicate which slides, if any, should not be tweeted about or noted in the online notes. If you are planning to tweet about a poster, please ask permission of the poster presenter first.
+
 ## Sunday: Opening Keynotes (chair: Jennifer Gardy)
 
 | Time | Speaker | Affiliation | Title |
