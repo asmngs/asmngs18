@@ -35,7 +35,7 @@ Our **social media policy** is that anything said by a speaker is fair game for 
 | ---| --- | ---| ----|
 | 9:00-9:45 | Varvara Kozyreva | California Department of Public Health | TBD |                                        
 | 9:45-10:30 | [Luke Meredith](http://www.twitter.com/lw_meredith) | University of Cambridge | TBD |  
-| 10:30-11:00 | Coffee break |
+| 10:30-11:00 | Coffee break & Meet the Journal of Clinical Microbiology Editor in Chief |
 | 11:00-11:20 | Oral abstract | TBD | TBD | 
 | 11:20-11:40 | Oral abstract | TBD | TBD | 
 | 11:40-12:00 | Oral abstract | TBD | TBD | 
