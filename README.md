@@ -84,8 +84,7 @@ Our **social media policy** is that anything said by a speaker is fair game for 
 | 9:45-10:30 | Beth Neuhaus | CDC | The CDC Domestic Influenza Surveillance System: From Pipe Dream to High-Performance Reality |  
 | 10:30-11:00 | Coffee break |
 | 11:00-11:10 | Oral abstract | Anders Goncalves | AusTrakka: Enabling Data Sharing for Surveillance --- or Why Your Parents Were Right | 
-| 11:10-11:20 | Oral abstract | Brian Ondov | Mash Screen: Fast Sequence Containment Estimation Using MinHash
- | 
+| 11:10-11:20 | Oral abstract | Brian Ondov | Mash Screen: Fast Sequence Containment Estimation Using MinHash |
 | 11:20-11:30 | Oral abstract | Sam Minot | Locally Partitioned Phylogenetic Agglomeration Enables Exhaustive Detection of Outbreak Clusters via Global Genome Trees | 
 | 11:30-11:40 | Oral abstract | Ivan Liachko | From Contigs to Chromosomes: A Hi-C Based Graph Assembly Tool Significantly Improves Metagenome Contiguity and -Cfree Metagenomic Deconvolution | 
 | 11:40-11:50 | Oral abstract | Karin Lagesen | ORION - One health surRveillance Initiative on harmOnization of Data Collection and interpretatioN | 
