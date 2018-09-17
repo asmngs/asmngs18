@@ -56,10 +56,8 @@ Our **social media policy** is that anything said by a speaker is fair game for 
 | Time | Speaker | Affiliation | Title |
 | ---| --- | ---| ----|
 | 8:00-8:45 | Jack Gilbert | University of Chicago | Breakfast Seminar sponsored by Illumina: Human and Environmental Microbial Health: A Global Perspective |    
-| 9:00-9:45 | Yu Wang | FDA | The Genetic Diversity of Salmonella 
-and Listeria Isolates from Food Facilities |                                        
-| 9:45-10:30 | Nikki Shariat | Gettysburg College | CRISPR-SeroSeq: A Novel Amplicon-based Tool
-For Probing Salmonella Serovar Diversity |  
+| 9:00-9:45 | Yu Wang | FDA | The Genetic Diversity of Salmonella and Listeria Isolates from Food Facilities |                                        
+| 9:45-10:30 | Nikki Shariat | Gettysburg College | CRISPR-SeroSeq: A Novel Amplicon-based Tool For Probing Salmonella Serovar Diversity |  
 | 10:30-11:00 | Coffee break |
 | 11:00-11:20 | Oral abstract | Caroline Baretto | A Validation Approach of an End-to-End Whole Genome Sequencing Workflow for Source Tracking of Listeria monocytogenes and Salmonella enterica | 
 | 11:20-11:40 | Oral abstract | Arthur Pightling | Measuring the Influences of Contamination on Whole-Genome Sequence Analyses of Foodborne Pathogens | 
@@ -83,8 +81,7 @@ For Probing Salmonella Serovar Diversity |
 | Time | Speaker | Affiliation | Title |
 | ---| --- | ---| ----|
 | 9:00-9:45 | [Torsten Seemann](http://twitter.com/torstenseemann) | University of Melbourne | How to Write Bioinformatics Software no one will use |                                        
-| 9:45-10:30 | Beth Neuhaus | CDC | The CDC Domestic Influenza Surveillance System: 
-From Pipe Dream to High-Performance Reality |  
+| 9:45-10:30 | Beth Neuhaus | CDC | The CDC Domestic Influenza Surveillance System: From Pipe Dream to High-Performance Reality |  
 | 10:30-11:00 | Coffee break |
 | 11:00-11:10 | Oral abstract | Anders Goncalves | AusTrakka: Enabling Data Sharing for Surveillance --- or Why Your Parents Were Right | 
 | 11:10-11:20 | Oral abstract | Brian Ondov | Mash Screen: Fast Sequence Containment Estimation Using MinHash
