@@ -26,69 +26,75 @@ Our **social media policy** is that anything said by a speaker is fair game for 
 | ---| --- | ---| ----|
 | 5:00-5:05 | Dag Harmsen | Program Committee | Welcome |
 | 5:05-5:15 | [Jennifer Gardy](http://www.twitter.com/jennifergardy) | Program Commitee | Conference Logistics |
-| 5:15-6:00 | [Kate Baker](http://www.twitter.com/ksbakes) | University of Liverpool | TBD |                                        
-| 6:00-6:45 | [Peter Daszak](http://www.twitter.com/peterdaszak) | EcoHealth Alliance | TBD |  
+| 5:15-6:00 | [Kate Baker](http://www.twitter.com/ksbakes) | University of Liverpool | Finding Private Cable and a Century of Dysentery |                                        
+| 6:00-6:45 | [Peter Daszak](http://www.twitter.com/peterdaszak) | EcoHealth Alliance | Pandemic Forecasting |  
 
 ## Monday Morning: Epidemiological Cues: NGS in Clinical and Public Health Microbiology (chair: Duncan MacCannell)
 
 | Time | Speaker | Affiliation | Title |
 | ---| --- | ---| ----|
-| 9:00-9:45 | Varvara Kozyreva | California Department of Public Health | TBD |                                        
-| 9:45-10:30 | [Luke Meredith](http://www.twitter.com/lw_meredith) | University of Cambridge | TBD |  
+| 9:00-9:45 | Varvara Kozyreva | California Department of Public Health | CLIA-Compliant Validation of WGS for Clinical Microbiological Applications: Experience of a State Public Health Reference Laboratory |                                        
+| 9:45-10:30 | [Luke Meredith](http://www.twitter.com/lw_meredith) | University of Cambridge | Mobile Genomics Laboratories for Viral Outbreak Response |  
 | 10:30-11:00 | Coffee break & Meet the Journal of Clinical Microbiology Editor in Chief |
-| 11:00-11:20 | Oral abstract | TBD | TBD | 
-| 11:20-11:40 | Oral abstract | TBD | TBD | 
-| 11:40-12:00 | Oral abstract | TBD | TBD | 
-| 12:00-12:20 | Oral abstract | TBD | TBD | 
+| 11:00-11:20 | Oral abstract | Matthew Keller | Deployable NGS for Influenza Virus Field Surveillance and Outbreak Response | 
+| 11:20-11:40 | Oral abstract | Georgia Lagoudas | One Week, One Thousand Bacterial Genomes: Microfluidics for Molecular Epidemiology and High-resolution Intra-patient Bacterial Evolution | 
+| 11:40-12:00 | Oral abstract | Justin O'Grady | Rapid diagnosis of lower respiratory infection using nanopore based metagenomic sequencing | 
+| 12:00-12:20 | Oral abstract | Rita Colwell | Translating Metagenomics into Clinical Reality | 
 
 ## Monday Afternoon: Pipelines to Pixels: NGS Data Integration and Visualization session (chair: Jennifer Gardy)
 
 | Time | Speaker | Affiliation | Title |
 | ---| --- | ---| ----|
-| 3:45-4:30 | [Maia Majumder](http://twitter.com/maiamajumder) | MIT | TBD |                                        
-| 4:30-5:15 | [Tom Schenk Jr.](http://www.twitter.com/tomschenkjr) | KPMG | TBD |  
-| 5:15-5:30 | Oral abstract | TBD | TBD | 
-| 5:30-5:45 | Oral abstract | TBD | TBD | 
-| 5:45-6:00 | Oral abstract | TBD | TBD | 
+| 3:45-4:30 | [Maia Majumder](http://twitter.com/maiamajumder) | MIT | Digital Disease Data for Outbreak Surveillanc |                                        
+| 4:30-5:15 | [Tom Schenk Jr.](http://www.twitter.com/tomschenkjr) | KPMG | Predictive Analytics, Cities and Public Health |  
+| 5:15-5:30 | Oral abstract | Richard Goater | Pathogenwatch: A Global Platform for Genomic Surveillance | 
+| 5:30-5:45 | Oral abstract | Anamaria Crisan | A Method for Systematically Surveying Data Visualizations in Infectious Disease Genomic Epidemiology | 
+| 5:45-6:00 | Oral abstract | James Davis | Using Machine Learning to Predict Antimicrobial Minimum Inhibitory Concentrations and Associated Genomic Features for Nontyphoidal Salmonella | 
 
 ## Tuesday Morning: Farm-to-Table: NGS in Veterinary, Food, and Environmental Microbiology (chair: Ruth Timme)
 
 | Time | Speaker | Affiliation | Title |
 | ---| --- | ---| ----|
-| 9:00-9:45 | Yu Wang | FDA | TBD |                                        
-| 9:45-10:30 | Nikki Shariat | Gettysburg College | TBD |  
+| 8:00-8:45 | Jack Gilbert | University of Chicago | Breakfast Seminar sponsored by Illumina: Human and Environmental Microbial Health: A Global Perspective |    
+| 9:00-9:45 | Yu Wang | FDA | The Genetic Diversity of Salmonella 
+and Listeria Isolates from Food Facilities |                                        
+| 9:45-10:30 | Nikki Shariat | Gettysburg College | CRISPR-SeroSeq: A Novel Amplicon-based Tool
+For Probing Salmonella Serovar Diversity |  
 | 10:30-11:00 | Coffee break |
-| 11:00-11:20 | Oral abstract | TBD | TBD | 
-| 11:20-11:40 | Oral abstract | TBD | TBD | 
-| 11:40-12:00 | Oral abstract | TBD | TBD | 
-| 12:00-12:20 | Oral abstract | TBD | TBD | 
+| 11:00-11:20 | Oral abstract | Caroline Baretto | A Validation Approach of an End-to-End Whole Genome Sequencing Workflow for Source Tracking of Listeria monocytogenes and Salmonella enterica | 
+| 11:20-11:40 | Oral abstract | Arthur Pightling | Measuring the Influences of Contamination on Whole-Genome Sequence Analyses of Foodborne Pathogens | 
+| 11:40-12:00 | Oral abstract | Chao Jiang | Dynamic Human Environmental Exposome Revealed by Longitudinal Personal Monitoring | 
+| 12:00-12:20 | Oral abstract | Mushal Allam | Whole-genome Sequencing Analyses to Investigate a Nationwide Outbreak of Listeriosis Caused by Ready-to-Eat Processed Meat Products, South Africa, 2017-2018 | 
 
 ## Tuesday Afternoon: Drugs & Thugs: NGS to Combat AMR  (chair: Marc Allard)
 
 | Time | Speaker | Affiliation | Title |
 | ---| --- | ---| ----|
-| 3:45-4:30 | Blake Hanson | UTHealth | TBD |                                        
-| 4:30-5:15 | Mike Feldgarden | NCBI | TBD |  
-| 5:15-5:30 | Oral abstract | TBD | TBD | 
-| 5:30-5:45 | Oral abstract | TBD | TBD | 
-| 5:45-6:00 | Oral abstract | TBD | TBD | 
+| 3:45-4:30 | Blake Hanson | UTHealth | Nanopore Sequencing to Understand AMR |                                        
+| 4:30-5:15 | Mike Feldgarden | NCBI | AMR Resources at NCBI’s Pathogen Portal |  
+| 5:15-5:30 | Oral abstract | Emily Snavely | Development and Validation of a Clinical Whole-Genome Sequencing Pipeline for the Detection of Antimicrobial Resistance Genes in Bacterial Isolates | 
+| 5:30-5:45 | Oral abstract | David Rasko | Diversity Among blaKPC-containing Plasmids in Escherichia coli and Other Bacterial Species Isolated from the Same Patients | 
+| 5:45-6:00 | Oral abstract | Finlay Maguire | AMRtime: Rapid Accurate Identification of Antimicrobial Resistance Determinants from Metagenomic Data | 
+| 6:00-8:00 | Dinner (on your own) |
+| 8:00-10:00 | Games Night social event |
 
 ## Wednesday Morning: Pipe Dreams: Analytical Methods, Bioinformatics Tools, and Pipelines (chair: Adam Phillippy)
 
 | Time | Speaker | Affiliation | Title |
 | ---| --- | ---| ----|
-| 9:00-9:45 | [Torsten Seemann](http://twitter.com/torstenseemann) | University of Melbourne | TBD |                                        
-| 9:45-10:30 | Beth Neuhaus | CDC | TBD |  
+| 9:00-9:45 | [Torsten Seemann](http://twitter.com/torstenseemann) | University of Melbourne | How to Write Bioinformatics Software no one will use |                                        
+| 9:45-10:30 | Beth Neuhaus | CDC | The CDC Domestic Influenza Surveillance System: 
+From Pipe Dream to High-Performance Reality |  
 | 10:30-11:00 | Coffee break |
-| 11:00-11:10 | Oral abstract | TBD | TBD | 
-| 11:10-11:20 | Oral abstract | TBD | TBD | 
-| 11:20-11:30 | Oral abstract | TBD | TBD | 
-| 11:30-11:40 | Oral abstract | TBD | TBD | 
-| 11:40-11:50 | Oral abstract | TBD | TBD | 
-| 11:50-12:00 | Oral abstract | TBD | TBD | 
-| 12:00-12:10 | Oral abstract | TBD | TBD | 
-| 12:10-12:20 | Oral abstract | TBD | TBD | 
-| 12:20-12:45 | Q&A for presenters |
+| 11:00-11:10 | Oral abstract | Anders Goncalves | AusTrakka: Enabling Data Sharing for Surveillance --- or Why Your Parents Were Right | 
+| 11:10-11:20 | Oral abstract | Brian Ondov | Mash Screen: Fast Sequence Containment Estimation Using MinHash
+ | 
+| 11:20-11:30 | Oral abstract | Sam Minot | Locally Partitioned Phylogenetic Agglomeration Enables Exhaustive Detection of Outbreak Clusters via Global Genome Trees | 
+| 11:30-11:40 | Oral abstract | Ivan Liachko | From Contigs to Chromosomes: A Hi-C Based Graph Assembly Tool Significantly Improves Metagenome Contiguity and -Cfree Metagenomic Deconvolution | 
+| 11:40-11:50 | Oral abstract | Karin Lagesen | ORION - One health surRveillance Initiative on harmOnization of Data Collection and interpretatioN | 
+| 11:50-12:00 | Oral abstract | Dmitry Antipov | Plasmid Detection and Assembly in Genomic and Metagenomic Datasets | 
+| 12:00-12:10 | Oral abstract | Daniel Baker | Dash: Efficient Genomic Set Operations Using HyperLogLogs | 
+| 12:10-12:45 | Q&A for presenters |
 
 # 3. Code of Conduct
 ASM and the ASMNGS team is committed to providing an environment that encourages the free expression and exchange of scientific ideas and promotes equal opportunities and respectful treatment for all participants. All participants are expected to treat others with respect and consideration, follow venue rules, and alert ASM staff or security of any dangerous situations or anyone in distress.
@@ -123,7 +129,7 @@ Thanks to both ASM and our wonderful sponsors, we are able to host a number of s
 - **Sunday 7:00-8:30pm** is our **opening reception**, hosted by ASM and included in your registration
 - **Monday 7:00-11:00pm** is a **party** hosted off-site by one of our conference sponsors, Oxford Nanopore. Registration for this free event is required - register [here](https://nanoporetech.com/events/asm-ngs-evening-reception).
 - **Tuesday 8:00-8:45am** is a **breakfast seminar** hosted by one of our conference sponsors, Illumina. Registration is not required.
-- **Tuesday evening** will feature a **conference social** for all attendees, organized by ASM and made possible through sponsorship. Further details will be provided closer to the event date.
+- **Tuesday 8:00pm** will feature a **conference games night social** for all attendees, organized by ASM and made possible through sponsorship. Mini-golf, bean-bag toss, and drinks!
 
 # 6. About ASMNGS18
 ASMNGS began in 2015 (if you're feeling nostalgic, the program is available [here](https://www.asm.org/images/ngsfinalprogram.pdf)), organized by Dag Harmsen (University of Muenster), Marc Allard (FDA), and Eric Brown (FDA). In 2017, the program committee was co-chaired by Dag and Jennifer Gardy (BCCDC), and also included Marc, Eric, and new committee members Elodie Ghedin (NYU),  Paul Keim (TGen), Duncan MacCannell (CDC), Adam Phillippy (NHGRI). In order to both coincide with the GenomeTrakr annual meeting and to not conflict with ABPHM, the committee decided to move the meeting to even years beginning in 2018. This year's meeting has been co-chaired by Jennifer and Duncan, and Ruth Timme (FDA) replaced Eric Brown on the organizing committee. The pre-conference workshop was organized by Dag.
