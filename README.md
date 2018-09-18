@@ -45,7 +45,7 @@ Our **social media policy** is that anything said by a speaker is fair game for 
 
 | Time | Speaker | Affiliation | Title |
 | ---| --- | ---| ----|
-| 3:45-4:30 | [Maia Majumder](http://twitter.com/maiamajumder) | MIT | Digital Disease Data for Outbreak Surveillanc |                                        
+| 3:45-4:30 | [Maia Majumder](http://twitter.com/maiamajumder) | MIT | Digital Disease Data for Outbreak Surveillance |                                        
 | 4:30-5:15 | [Tom Schenk Jr.](http://www.twitter.com/tomschenkjr) | KPMG | Predictive Analytics, Cities and Public Health |  
 | 5:15-5:30 | Oral abstract | Richard Goater | Pathogenwatch: A Global Platform for Genomic Surveillance | 
 | 5:30-5:45 | Oral abstract | Anamaria Crisan | A Method for Systematically Surveying Data Visualizations in Infectious Disease Genomic Epidemiology | 
