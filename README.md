@@ -13,7 +13,7 @@ Welcome to ASMNGS18! In the spirit of open science, we're trying to make this co
 
 The [conference website](https://www.asm.org/index.php/asm-conference-on-next-generation-sequencing) contains all sorts of useful information, and if you're tweeting, please use the hashtag **#ASMNGS18**. You can tag **@ASMicrobiology** too.
 
-If you need to get in touch with the organizers at any time, you have multiple options. You can tweet at the meeting chairs – [@jennifergardy](http://www.twitter.com/jennifergardy) and [@dmaccannell](http://www.twitter.com/dmaccannell), you can email [Jennifer](mailto:jennifer.gardy@bccdc.ca) or [Duncan](mailto:fms2@cdc.gov), you can create an issue in this repo, or you can talk to our ASM Meetings team, including Latonya Trower and Tiffany Burns, at the Registration Desk.
+If you need to get in touch with the organizers at any time, you have multiple options. You can tweet at the meeting chairs – [@jennifergardy](http://www.twitter.com/jennifergardy) and [@dmaccannell](http://www.twitter.com/dmaccannell), you can email [Jennifer](mailto:jennifer.gardy@bccdc.ca) or [Duncan](mailto:fms2@cdc.gov), you can create an issue in this repo, or you can talk to our ASM Meetings team, including Latonya Trower, at the Registration Desk.
 
 # 2. Schedule & Presentations
 We are encouraging speakers and poster presenters to make their materials available online. There are multiple avenues for doing so, including Google Drive, Slideshare, figshare,  F1000 Posters, and many more. The schedule below will be updated with links to slides as they are made available, and below the schedule is a list of posters that authors have placed online. Speaker name links go to Twitter profiles; talk title links go to slide files.
