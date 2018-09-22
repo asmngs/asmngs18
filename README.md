@@ -28,6 +28,7 @@ Our **social media policy** is that anything said by a speaker is fair game for 
 | 5:05-5:15 | [Jennifer Gardy](http://www.twitter.com/jennifergardy) | Program Commitee | Conference Logistics |
 | 5:15-6:00 | [Kate Baker](http://www.twitter.com/ksbakes) | University of Liverpool | Finding Private Cable and a Century of Dysentery |                                        
 | 6:00-6:45 | [Peter Daszak](http://www.twitter.com/peterdaszak) | EcoHealth Alliance | Pandemic Forecasting |  
+| 7:00-8:30 | Opening reception |
 
 ## Monday Morning: Epidemiological Cues: NGS in Clinical and Public Health Microbiology (chair: Duncan MacCannell)
 
