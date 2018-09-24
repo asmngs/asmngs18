@@ -41,6 +41,9 @@ Our **social media policy** is that anything said by a speaker is fair game for 
 | 11:20-11:40 | Oral abstract | Georgia Lagoudas | One Week, One Thousand Bacterial Genomes: Microfluidics for Molecular Epidemiology and High-resolution Intra-patient Bacterial Evolution | 
 | 11:40-12:00 | Oral abstract | Justin O'Grady | Rapid diagnosis of lower respiratory infection using nanopore based metagenomic sequencing | 
 | 12:00-12:20 | Oral abstract | Rita Colwell | Translating Metagenomics into Clinical Reality | 
+| 12:30-2:00 | Lunch (Tysons Ballroom) |
+| 2:00-3:30 | Poster Session A: Posters 1-84 (Ash Grove Ballroom) |
+
 
 ## Monday Afternoon: Pipelines to Pixels: NGS Data Integration and Visualization session (chair: Jennifer Gardy)
 
@@ -64,6 +67,8 @@ Our **social media policy** is that anything said by a speaker is fair game for 
 | 11:20-11:40 | Oral abstract | Arthur Pightling | Measuring the Influences of Contamination on Whole-Genome Sequence Analyses of Foodborne Pathogens | 
 | 11:40-12:00 | Oral abstract | Chao Jiang | Dynamic Human Environmental Exposome Revealed by Longitudinal Personal Monitoring | 
 | 12:00-12:20 | Oral abstract | Mushal Allam | Whole-genome Sequencing Analyses to Investigate a Nationwide Outbreak of Listeriosis Caused by Ready-to-Eat Processed Meat Products, South Africa, 2017-2018 | 
+| 12:30-2:00 | Lunch (Tysons Ballroom) |
+| 2:00-3:30 | Poster Session B: Posters 85-169 (Ash Grove Ballroom) |
 
 ## Tuesday Afternoon: Drugs & Thugs: NGS to Combat AMR  (chair: Marc Allard)
 
