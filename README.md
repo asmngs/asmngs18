@@ -26,7 +26,7 @@ Our **social media policy** is that anything said by a speaker is fair game for 
 | ---| --- | ---| ----|
 | 5:00-5:05 | Dag Harmsen | Program Committee | Welcome |
 | 5:05-5:15 | [Jennifer Gardy](http://www.twitter.com/jennifergardy) | Program Commitee | Conference Logistics |
-| 5:15-6:00 | [Kate Baker](http://www.twitter.com/ksbakes) | University of Liverpool | Finding Private Cable and a Century of Dysentery |                                        
+| 5:15-6:00 | [Kate Baker](http://www.twitter.com/ksbakes) | University of Liverpool | [Finding Private Cable and a Century of Dysentery](https://figshare.com/articles/Slides_for_ASMNGS18_presentation_Finding_private_Cable_and_a_century_of_dysentery_/7121663) |                                        
 | 6:00-6:45 | [Peter Daszak](http://www.twitter.com/peterdaszak) | EcoHealth Alliance | Pandemic Forecasting |  
 | 7:00-8:30 | Opening reception |
 
@@ -34,7 +34,7 @@ Our **social media policy** is that anything said by a speaker is fair game for 
 
 | Time | Speaker | Affiliation | Title |
 | ---| --- | ---| ----|
-| 9:00-9:45 | Varvara Kozyreva | California Department of Public Health | CLIA-Compliant Validation of WGS for Clinical Microbiological Applications: Experience of a State Public Health Reference Laboratory |                                        
+| 9:00-9:45 | Varvara Kozyreva | California Department of Public Health | [CLIA-Compliant Validation of WGS for Clinical Microbiological Applications: Experience of a State Public Health Reference Laboratory](https://f1000research.com/slides/7-1549) |                                        
 | 9:45-10:30 | [Luke Meredith](http://www.twitter.com/lw_meredith) | University of Cambridge | Mobile Genomics Laboratories for Viral Outbreak Response |  
 | 10:30-11:00 | Coffee break & Meet the Journal of Clinical Microbiology Editor in Chief |
 | 11:00-11:20 | Oral abstract | Matthew Keller | Deployable NGS for Influenza Virus Field Surveillance and Outbreak Response | 
@@ -49,10 +49,10 @@ Our **social media policy** is that anything said by a speaker is fair game for 
 
 | Time | Speaker | Affiliation | Title |
 | ---| --- | ---| ----|
-| 3:45-4:30 | [Maia Majumder](http://twitter.com/maiamajumder) | MIT | Digital Disease Data for Outbreak Surveillance |                                        
-| 4:30-5:15 | [Tom Schenk Jr.](http://www.twitter.com/tomschenkjr) | KPMG | Predictive Analytics, Cities and Public Health |  
+| 3:45-4:30 | [Maia Majumder](http://twitter.com/maiamajumder) | MIT | [Digital Disease Data for Outbreak Surveillance](https://maimunamajumder.files.wordpress.com/2018/09/majumder_asm_keynote.pdf) |                                        
+| 4:30-5:15 | [Tom Schenk Jr.](http://www.twitter.com/tomschenkjr) | KPMG | [Predictive Analytics, Cities and Public Health](https://speakerdeck.com/tomschenkjr/predictive-analytics-cities-and-public-health) |  
 | 5:15-5:30 | Oral abstract | Richard Goater | Pathogenwatch: A Global Platform for Genomic Surveillance | 
-| 5:30-5:45 | Oral abstract | Anamaria Crisan | A Method for Systematically Surveying Data Visualizations in Infectious Disease Genomic Epidemiology | 
+| 5:30-5:45 | Oral abstract | Anamaria Crisan | [A Method for Systematically Surveying Data Visualizations in Infectious Disease Genomic Epidemiology](https://amcrisan.github.io/assets/files/slides/2018_ASM_NGS_V1.pdf) | 
 | 5:45-6:00 | Oral abstract | James Davis | Using Machine Learning to Predict Antimicrobial Minimum Inhibitory Concentrations and Associated Genomic Features for Nontyphoidal Salmonella | 
 
 ## Tuesday Morning: Farm-to-Table: NGS in Veterinary, Food, and Environmental Microbiology (chair: Ruth Timme)
