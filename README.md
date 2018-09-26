@@ -35,7 +35,7 @@ Our **social media policy** is that anything said by a speaker is fair game for 
 | Time | Speaker | Affiliation | Title |
 | ---| --- | ---| ----|
 | 9:00-9:45 | Varvara Kozyreva | California Department of Public Health | [CLIA-Compliant Validation of WGS for Clinical Microbiological Applications: Experience of a State Public Health Reference Laboratory](https://f1000research.com/slides/7-1549) |                                        
-| 9:45-10:30 | [Luke Meredith](http://www.twitter.com/lw_meredith) | University of Cambridge | Mobile Genomics Laboratories for Viral Outbreak Response |  
+| 9:45-10:30 | [Luke Meredith](http://www.twitter.com/lw_meredith) | University of Cambridge | [Mobile Genomics Laboratories for Viral Outbreak Response](https://drive.google.com/open?id=1H42AForsVFbLT7p7r1mtbgDtjkEkDcdw) |  
 | 10:30-11:00 | Coffee break & Meet the Journal of Clinical Microbiology Editor in Chief |
 | 11:00-11:20 | Oral abstract | Matthew Keller | Deployable NGS for Influenza Virus Field Surveillance and Outbreak Response | 
 | 11:20-11:40 | Oral abstract | Georgia Lagoudas | One Week, One Thousand Bacterial Genomes: Microfluidics for Molecular Epidemiology and High-resolution Intra-patient Bacterial Evolution | 
