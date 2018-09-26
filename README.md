@@ -86,7 +86,7 @@ Our **social media policy** is that anything said by a speaker is fair game for 
 
 | Time | Speaker | Affiliation | Title |
 | ---| --- | ---| ----|
-| 9:00-9:45 | [Torsten Seemann](http://twitter.com/torstenseemann) | University of Melbourne | How to Write Bioinformatics Software no one will use |                                        
+| 9:00-9:45 | [Torsten Seemann](http://twitter.com/torstenseemann) | University of Melbourne | [How to Write Bioinformatics Software no one will use](https://www.slideshare.net/torstenseemann/how-to-write-bioinformatics-software-no-one-will-use) |                                        
 | 9:45-10:30 | Beth Neuhaus | CDC | The CDC Domestic Influenza Surveillance System: From Pipe Dream to High-Performance Reality |  
 | 10:30-11:00 | Coffee break |
 | 11:00-11:10 | Oral abstract | Anders Goncalves | AusTrakka: Enabling Data Sharing for Surveillance --- or Why Your Parents Were Right | 
