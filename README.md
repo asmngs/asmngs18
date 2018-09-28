@@ -91,7 +91,7 @@ Our **social media policy** is that anything said by a speaker is fair game for 
 | 10:30-11:00 | Coffee break |
 | 11:00-11:10 | Oral abstract | [Anders Goncalves da Silva](http://twitter.com/drandersgs) | [AusTrakka: Enabling Data Sharing for Surveillance --- or Why Your Parents Were Right](https://figshare.com/articles/AusTrakka_Enabling_Data_Sharing_for_Surveillance_or_Why_Your_Parents_Were_Right/7138082) | 
 | 11:10-11:20 | Oral abstract | Brian Ondov | Mash Screen: Fast Sequence Containment Estimation Using MinHash |
-| 11:20-11:30 | Oral abstract | Sam Minot | Gene-level metagenomic analysis identifies microbial genes reproducibly associated with IBD and CRC across independent clinical cohorts | 
+| 11:20-11:30 | Oral abstract | [Sam Minot](http://twitter.com/sminot) | [Gene-level metagenomic analysis identifies microbial genes reproducibly associated with IBD and CRC across independent clinical cohorts](https://www.slideshare.net/SamuelMinot/minot-asm-ngs-20180926) | 
 | 11:30-11:40 | Oral abstract | Ivan Liachko | From Contigs to Chromosomes: A Hi-C Based Graph Assembly Tool Significantly Improves Metagenome Contiguity and -Cfree Metagenomic Deconvolution | 
 | 11:40-11:50 | Oral abstract | Karin Lagesen | ORION - One health surRveillance Initiative on harmOnization of Data Collection and interpretatioN | 
 | 11:50-12:00 | Oral abstract | Dmitry Antipov | Plasmid Detection and Assembly in Genomic and Metagenomic Datasets | 
