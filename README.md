@@ -75,7 +75,7 @@ Our **social media policy** is that anything said by a speaker is fair game for 
 | Time | Speaker | Affiliation | Title |
 | ---| --- | ---| ----|
 | 3:45-4:30 | Blake Hanson | UTHealth | Nanopore Sequencing to Understand AMR |
-| 4:30-5:15 | [Mike Feldgarden](http://twitter.com/mikethemadbiol) | NCBI | AMR Resources at NCBI’s Pathogen Portal |
+| 4:30-5:15 | [Mike Feldgarden](http://twitter.com/mikethemadbiol) | NCBI | [AMR Resources at NCBI’s Pathogen Portal](https://github.com/asmngs/asmngs18/blob/master/RAPD_ASM2018_v5_Feldgarden.pdf) |
 | 5:15-5:30 | Oral abstract | Emily Snavely | Development and Validation of a Clinical Whole-Genome Sequencing Pipeline for the Detection of Antimicrobial Resistance Genes in Bacterial Isolates |
 | 5:30-5:45 | Oral abstract | David Rasko | Diversity Among blaKPC-containing Plasmids in Escherichia coli and Other Bacterial Species Isolated from the Same Patients |
 | 5:45-6:00 | Oral abstract | Finlay Maguire | AMRtime: Rapid Accurate Identification of Antimicrobial Resistance Determinants from Metagenomic Data |
