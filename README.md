@@ -9,7 +9,7 @@
 6. About ASMNGS18
 
 # 1. Important Information
-Welcome to ASMNGS18! In the spirit of open science, we're trying to make this conference as **open, accessible, and user-friendly** as possible. This repo will store slides, posters, and notes from the conference from those participants who are up for sharing their material, and also serves as a mechanism to receive feedback in the form of issues (check [this out](https://help.github.com/articles/creating-an-issue/) if you're unsure how to create an issue). 
+Welcome to ASMNGS18! In the spirit of open science, we're trying to make this conference as **open, accessible, and user-friendly** as possible. This repo will store slides, posters, and notes from the conference from those participants who are up for sharing their material, and also serves as a mechanism to receive feedback in the form of issues (check [this out](https://help.github.com/articles/creating-an-issue/) if you're unsure how to create an issue).
 
 The [conference website](https://www.asm.org/index.php/asm-conference-on-next-generation-sequencing) contains all sorts of useful information, and if you're tweeting, please use the hashtag **#ASMNGS18**. You can tag **@ASMicrobiology** too.
 
@@ -26,21 +26,21 @@ Our **social media policy** is that anything said by a speaker is fair game for 
 | ---| --- | ---| ----|
 | 5:00-5:05 | Dag Harmsen | Program Committee | Welcome |
 | 5:05-5:15 | [Jennifer Gardy](http://www.twitter.com/jennifergardy) | Program Commitee | Conference Logistics |
-| 5:15-6:00 | [Kate Baker](http://www.twitter.com/ksbakes) | University of Liverpool | [Finding Private Cable and a Century of Dysentery](https://figshare.com/articles/Slides_for_ASMNGS18_presentation_Finding_private_Cable_and_a_century_of_dysentery_/7121663) |                                        
-| 6:00-6:45 | [Peter Daszak](http://www.twitter.com/peterdaszak) | EcoHealth Alliance | Pandemic Forecasting |  
+| 5:15-6:00 | [Kate Baker](http://www.twitter.com/ksbakes) | University of Liverpool | [Finding Private Cable and a Century of Dysentery](https://figshare.com/articles/Slides_for_ASMNGS18_presentation_Finding_private_Cable_and_a_century_of_dysentery_/7121663) |
+| 6:00-6:45 | [Peter Daszak](http://www.twitter.com/peterdaszak) | EcoHealth Alliance | Pandemic Forecasting |
 | 7:00-8:30 | Opening reception |
 
 ## Monday Morning: Epidemiological Cues: NGS in Clinical and Public Health Microbiology (chair: Duncan MacCannell)
 
 | Time | Speaker | Affiliation | Title |
 | ---| --- | ---| ----|
-| 9:00-9:45 | Varvara Kozyreva | California Department of Public Health | [CLIA-Compliant Validation of WGS for Clinical Microbiological Applications: Experience of a State Public Health Reference Laboratory](https://f1000research.com/slides/7-1549) |                                        
-| 9:45-10:30 | [Luke Meredith](http://www.twitter.com/lw_meredith) | University of Cambridge | [Mobile Genomics Laboratories for Viral Outbreak Response](https://drive.google.com/open?id=1H42AForsVFbLT7p7r1mtbgDtjkEkDcdw) |  
+| 9:00-9:45 | Varvara Kozyreva | California Department of Public Health | [CLIA-Compliant Validation of WGS for Clinical Microbiological Applications: Experience of a State Public Health Reference Laboratory](https://f1000research.com/slides/7-1549) |
+| 9:45-10:30 | [Luke Meredith](http://www.twitter.com/lw_meredith) | University of Cambridge | [Mobile Genomics Laboratories for Viral Outbreak Response](https://drive.google.com/open?id=1H42AForsVFbLT7p7r1mtbgDtjkEkDcdw) |
 | 10:30-11:00 | Coffee break & Meet the Journal of Clinical Microbiology Editor in Chief |
-| 11:00-11:20 | Oral abstract | Matthew Keller | Deployable NGS for Influenza Virus Field Surveillance and Outbreak Response | 
-| 11:20-11:40 | Oral abstract | Georgia Lagoudas | One Week, One Thousand Bacterial Genomes: Microfluidics for Molecular Epidemiology and High-resolution Intra-patient Bacterial Evolution | 
-| 11:40-12:00 | Oral abstract | Justin O'Grady | Rapid diagnosis of lower respiratory infection using nanopore based metagenomic sequencing | 
-| 12:00-12:20 | Oral abstract | Rita Colwell | Translating Metagenomics into Clinical Reality | 
+| 11:00-11:20 | Oral abstract | Matthew Keller | Deployable NGS for Influenza Virus Field Surveillance and Outbreak Response |
+| 11:20-11:40 | Oral abstract | Georgia Lagoudas | One Week, One Thousand Bacterial Genomes: Microfluidics for Molecular Epidemiology and High-resolution Intra-patient Bacterial Evolution |
+| 11:40-12:00 | Oral abstract | Justin O'Grady | Rapid diagnosis of lower respiratory infection using nanopore based metagenomic sequencing |
+| 12:00-12:20 | Oral abstract | Rita Colwell | Translating Metagenomics into Clinical Reality |
 | 12:30-2:00 | Lunch (Tysons Ballroom) |
 | 2:00-3:30 | Poster Session A: Posters 1-84 (Ash Grove Ballroom) |
 
@@ -49,24 +49,24 @@ Our **social media policy** is that anything said by a speaker is fair game for 
 
 | Time | Speaker | Affiliation | Title |
 | ---| --- | ---| ----|
-| 3:45-4:30 | [Maia Majumder](http://twitter.com/maiamajumder) | MIT | [Digital Disease Data for Outbreak Surveillance](https://maimunamajumder.files.wordpress.com/2018/09/majumder_asm_keynote.pdf) |                                        
-| 4:30-5:15 | [Tom Schenk Jr.](http://www.twitter.com/tomschenkjr) | KPMG | [Predictive Analytics, Cities and Public Health](https://speakerdeck.com/tomschenkjr/predictive-analytics-cities-and-public-health) |  
-| 5:15-5:30 | Oral abstract | Richard Goater | Pathogenwatch: A Global Platform for Genomic Surveillance | 
-| 5:30-5:45 | Oral abstract | Anamaria Crisan | [A Method for Systematically Surveying Data Visualizations in Infectious Disease Genomic Epidemiology](https://amcrisan.github.io/assets/files/slides/2018_ASM_NGS_V1.pdf) | 
-| 5:45-6:00 | Oral abstract | James Davis | Using Machine Learning to Predict Antimicrobial Minimum Inhibitory Concentrations and Associated Genomic Features for Nontyphoidal Salmonella | 
+| 3:45-4:30 | [Maia Majumder](http://twitter.com/maiamajumder) | MIT | [Digital Disease Data for Outbreak Surveillance](https://maimunamajumder.files.wordpress.com/2018/09/majumder_asm_keynote.pdf) |
+| 4:30-5:15 | [Tom Schenk Jr.](http://www.twitter.com/tomschenkjr) | KPMG | [Predictive Analytics, Cities and Public Health](https://speakerdeck.com/tomschenkjr/predictive-analytics-cities-and-public-health) |
+| 5:15-5:30 | Oral abstract | Richard Goater | Pathogenwatch: A Global Platform for Genomic Surveillance |
+| 5:30-5:45 | Oral abstract | Anamaria Crisan | [A Method for Systematically Surveying Data Visualizations in Infectious Disease Genomic Epidemiology](https://amcrisan.github.io/assets/files/slides/2018_ASM_NGS_V1.pdf) |
+| 5:45-6:00 | Oral abstract | James Davis | Using Machine Learning to Predict Antimicrobial Minimum Inhibitory Concentrations and Associated Genomic Features for Nontyphoidal Salmonella |
 
 ## Tuesday Morning: Farm-to-Table: NGS in Veterinary, Food, and Environmental Microbiology (chair: Ruth Timme)
 
 | Time | Speaker | Affiliation | Title |
 | ---| --- | ---| ----|
-| 8:00-8:45 | Jack Gilbert | University of Chicago | Breakfast Seminar sponsored by Illumina: Human and Environmental Microbial Health: A Global Perspective |    
-| 9:00-9:45 | Yu Wang | FDA | The Genetic Diversity of Salmonella and Listeria Isolates from Food Facilities |                                        
-| 9:45-10:30 | Nikki Shariat | Gettysburg College | CRISPR-SeroSeq: A Novel Amplicon-based Tool For Probing Salmonella Serovar Diversity |  
+| 8:00-8:45 | Jack Gilbert | University of Chicago | Breakfast Seminar sponsored by Illumina: Human and Environmental Microbial Health: A Global Perspective |
+| 9:00-9:45 | Yu Wang | FDA | The Genetic Diversity of Salmonella and Listeria Isolates from Food Facilities |
+| 9:45-10:30 | Nikki Shariat | Gettysburg College | CRISPR-SeroSeq: A Novel Amplicon-based Tool For Probing Salmonella Serovar Diversity |
 | 10:30-11:00 | Coffee break |
-| 11:00-11:20 | Oral abstract | Caroline Baretto | A Validation Approach of an End-to-End Whole Genome Sequencing Workflow for Source Tracking of Listeria monocytogenes and Salmonella enterica | 
-| 11:20-11:40 | Oral abstract | Arthur Pightling | Measuring the Influences of Contamination on Whole-Genome Sequence Analyses of Foodborne Pathogens | 
-| 11:40-12:00 | Oral abstract | Chao Jiang | Dynamic Human Environmental Exposome Revealed by Longitudinal Personal Monitoring | 
-| 12:00-12:20 | Oral abstract | Mushal Allam | Whole-genome Sequencing Analyses to Investigate a Nationwide Outbreak of Listeriosis Caused by Ready-to-Eat Processed Meat Products, South Africa, 2017-2018 | 
+| 11:00-11:20 | Oral abstract | Caroline Baretto | A Validation Approach of an End-to-End Whole Genome Sequencing Workflow for Source Tracking of Listeria monocytogenes and Salmonella enterica |
+| 11:20-11:40 | Oral abstract | Arthur Pightling | Measuring the Influences of Contamination on Whole-Genome Sequence Analyses of Foodborne Pathogens |
+| 11:40-12:00 | Oral abstract | Chao Jiang | Dynamic Human Environmental Exposome Revealed by Longitudinal Personal Monitoring |
+| 12:00-12:20 | Oral abstract | Mushal Allam | Whole-genome Sequencing Analyses to Investigate a Nationwide Outbreak of Listeriosis Caused by Ready-to-Eat Processed Meat Products, South Africa, 2017-2018 |
 | 12:30-2:00 | Lunch (Tysons Ballroom) |
 | 2:00-3:30 | Poster Session B: Posters 85-169 (Ash Grove Ballroom) |
 
@@ -74,11 +74,11 @@ Our **social media policy** is that anything said by a speaker is fair game for 
 
 | Time | Speaker | Affiliation | Title |
 | ---| --- | ---| ----|
-| 3:45-4:30 | Blake Hanson | UTHealth | Nanopore Sequencing to Understand AMR |                                        
-| 4:30-5:15 | [Mike Feldgarden](http://twitter.com/mikethemadbiol) | NCBI | AMR Resources at NCBI’s Pathogen Portal |  
-| 5:15-5:30 | Oral abstract | Emily Snavely | Development and Validation of a Clinical Whole-Genome Sequencing Pipeline for the Detection of Antimicrobial Resistance Genes in Bacterial Isolates | 
-| 5:30-5:45 | Oral abstract | David Rasko | Diversity Among blaKPC-containing Plasmids in Escherichia coli and Other Bacterial Species Isolated from the Same Patients | 
-| 5:45-6:00 | Oral abstract | Finlay Maguire | AMRtime: Rapid Accurate Identification of Antimicrobial Resistance Determinants from Metagenomic Data | 
+| 3:45-4:30 | Blake Hanson | UTHealth | Nanopore Sequencing to Understand AMR |
+| 4:30-5:15 | [Mike Feldgarden](http://twitter.com/mikethemadbiol) | NCBI | AMR Resources at NCBI’s Pathogen Portal |
+| 5:15-5:30 | Oral abstract | Emily Snavely | Development and Validation of a Clinical Whole-Genome Sequencing Pipeline for the Detection of Antimicrobial Resistance Genes in Bacterial Isolates |
+| 5:30-5:45 | Oral abstract | David Rasko | Diversity Among blaKPC-containing Plasmids in Escherichia coli and Other Bacterial Species Isolated from the Same Patients |
+| 5:45-6:00 | Oral abstract | Finlay Maguire | AMRtime: Rapid Accurate Identification of Antimicrobial Resistance Determinants from Metagenomic Data |
 | 6:00-8:00 | Dinner (on your own) |
 | 8:00-10:00 | Games Night social event |
 
@@ -86,16 +86,16 @@ Our **social media policy** is that anything said by a speaker is fair game for 
 
 | Time | Speaker | Affiliation | Title |
 | ---| --- | ---| ----|
-| 9:00-9:45 | [Torsten Seemann](http://twitter.com/torstenseemann) | University of Melbourne | [How to Write Bioinformatics Software no one will use](https://www.slideshare.net/torstenseemann/how-to-write-bioinformatics-software-no-one-will-use) |                                        
-| 9:45-10:30 | Beth Neuhaus | CDC | The CDC Domestic Influenza Surveillance System: From Pipe Dream to High-Performance Reality |  
+| 9:00-9:45 | [Torsten Seemann](http://twitter.com/torstenseemann) | University of Melbourne | [How to Write Bioinformatics Software no one will use](https://www.slideshare.net/torstenseemann/how-to-write-bioinformatics-software-no-one-will-use) |
+| 9:45-10:30 | Beth Neuhaus | CDC | The CDC Domestic Influenza Surveillance System: From Pipe Dream to High-Performance Reality |
 | 10:30-11:00 | Coffee break |
-| 11:00-11:10 | Oral abstract | [Anders Goncalves da Silva](http://twitter.com/drandersgs) | [AusTrakka: Enabling Data Sharing for Surveillance --- or Why Your Parents Were Right](https://figshare.com/articles/AusTrakka_Enabling_Data_Sharing_for_Surveillance_or_Why_Your_Parents_Were_Right/7138082) | 
+| 11:00-11:10 | Oral abstract | [Anders Goncalves da Silva](http://twitter.com/drandersgs) | [AusTrakka: Enabling Data Sharing for Surveillance --- or Why Your Parents Were Right](https://figshare.com/articles/AusTrakka_Enabling_Data_Sharing_for_Surveillance_or_Why_Your_Parents_Were_Right/7138082) |
 | 11:10-11:20 | Oral abstract | Brian Ondov | Mash Screen: Fast Sequence Containment Estimation Using MinHash |
-| 11:20-11:30 | Oral abstract | [Sam Minot](http://twitter.com/sminot) | [Gene-level metagenomic analysis identifies microbial genes reproducibly associated with IBD and CRC across independent clinical cohorts](https://www.slideshare.net/SamuelMinot/minot-asm-ngs-20180926) | 
-| 11:30-11:40 | Oral abstract | Ivan Liachko | From Contigs to Chromosomes: A Hi-C Based Graph Assembly Tool Significantly Improves Metagenome Contiguity and -Cfree Metagenomic Deconvolution | 
-| 11:40-11:50 | Oral abstract | Karin Lagesen | ORION - One health surRveillance Initiative on harmOnization of Data Collection and interpretatioN | 
-| 11:50-12:00 | Oral abstract | Dmitry Antipov | Plasmid Detection and Assembly in Genomic and Metagenomic Datasets | 
-| 12:00-12:10 | Oral abstract | Daniel Baker | Dash: Efficient Genomic Set Operations Using HyperLogLogs | 
+| 11:20-11:30 | Oral abstract | [Sam Minot](http://twitter.com/sminot) | [Gene-level metagenomic analysis identifies microbial genes reproducibly associated with IBD and CRC across independent clinical cohorts](https://www.slideshare.net/SamuelMinot/minot-asm-ngs-20180926) |
+| 11:30-11:40 | Oral abstract | Ivan Liachko | From Contigs to Chromosomes: A Hi-C Based Graph Assembly Tool Significantly Improves Metagenome Contiguity and -Cfree Metagenomic Deconvolution |
+| 11:40-11:50 | Oral abstract | Karin Lagesen | ORION - One health surRveillance Initiative on harmOnization of Data Collection and interpretatioN |
+| 11:50-12:00 | Oral abstract | Dmitry Antipov | Plasmid Detection and Assembly in Genomic and Metagenomic Datasets |
+| 12:00-12:10 | Oral abstract | [Daniel Baker](https://github.com/dnbaker) | [Dash: Efficient Genomic Set Operations Using HyperLogLogs](https://github.com/asmngs/asmngs18/blob/master/dash_asmngs18.pptx) |
 | 12:10-12:45 | Q&A for presenters |
 
 # 3. Code of Conduct
