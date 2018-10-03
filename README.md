@@ -53,7 +53,7 @@ Our **social media policy** is that anything said by a speaker is fair game for 
 | 4:30-5:15 | [Tom Schenk Jr.](http://www.twitter.com/tomschenkjr) | KPMG | [Predictive Analytics, Cities and Public Health](https://speakerdeck.com/tomschenkjr/predictive-analytics-cities-and-public-health) |
 | 5:15-5:30 | Oral abstract | Richard Goater | [Pathogenwatch: A Global Platform for Genomic Surveillance](https://cdn.rawgit.com/richardgoater/asmngs18/6322fb6f/richard-goater-pathogenwatch-a-global-platform-for-genomic-surveillance.pdf) |
 | 5:30-5:45 | Oral abstract | Anamaria Crisan | [A Method for Systematically Surveying Data Visualizations in Infectious Disease Genomic Epidemiology](https://amcrisan.github.io/assets/files/slides/2018_ASM_NGS_V1.pdf) |
-| 5:45-6:00 | Oral abstract | James Davis | Using Machine Learning to Predict Antimicrobial Minimum Inhibitory Concentrations and Associated Genomic Features for Nontyphoidal Salmonella |
+| 5:45-6:00 | Oral abstract | James Davis | [Using Machine Learning to Predict Antimicrobial Minimum Inhibitory Concentrations and Associated Genomic Features for Nontyphoidal Salmonella](https://github.com/asmngs/asmngs18/blob/master/Jim_Davis_ASM_NGS.pdf) |
 
 ## Tuesday Morning: Farm-to-Table: NGS in Veterinary, Food, and Environmental Microbiology (chair: Ruth Timme)
 
